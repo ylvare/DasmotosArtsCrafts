@@ -1,0 +1,35 @@
+h1, h2, h3, p, span{
+    font-family: Helvetica;
+}
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  margin: auto;
+  background-image: url('..\\images\\pattern.jpg');
+}
+
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+span{
+  font-weight: bold;
+  color: blue;
+
+}
+#brushes h2{
+  background: mediumspringgreen;
+}
+
+#frames h2{
+  background: lightcoral;
+}
+
+#paint h2{
+  background: skyblue;
+}
